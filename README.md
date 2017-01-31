@@ -93,6 +93,7 @@ Also there are changes in the `app/config/modules.php` file. Now you have to ret
 
 ## License
 
+
 L5Modular is licensed under the terms of the [MIT License](http://opensource.org/licenses/MIT)
 (See LICENSE file for details).
 
